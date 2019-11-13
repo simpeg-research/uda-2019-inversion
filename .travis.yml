@@ -19,7 +19,7 @@ before_install:
 
 install:
   - conda env create -f environment.yml
-  - source activate em-casing-environment
+  - source activate uda-2019-inversion
   - export MPLBACKEND="agg"
   - pip install -r requirements_dev.txt
 
