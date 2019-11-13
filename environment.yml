@@ -1,0 +1,14 @@
+name: uda-2019-inversion
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - mkl
+  - deepdish
+  - SimPEG
+  - pymatsolver

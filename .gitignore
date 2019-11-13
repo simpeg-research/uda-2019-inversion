@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# repo-specific
+Chile_GRAV_4_Miller/
+inversion_results/
