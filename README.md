@@ -1,6 +1,6 @@
 # uda-2019-inversion
 
-[![Build Status](https://travis-ci.com/simpeg-research/uda-2019-inversion.svg?branch=master)](https://travis-ci.com/simpeg-research/uda-2019-inversion)
+[![Build Status](https://travis-ci.org/simpeg-research/uda-2019-inversion.svg?branch=master)](https://travis-ci.org/simpeg-research/uda-2019-inversion)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg-research/uda-2019-inversion/master?filepath=gravity-inversion.ipynb)
 [![License](https://img.shields.io/github/license/simpeg-research/uda-2019-inversion.svg)](https://github.com/simpeg-research/uda-2019-inversion/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
