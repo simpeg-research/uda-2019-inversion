@@ -10,5 +10,5 @@ dependencies:
   - ipywidgets
   - mkl
   - deepdish
-  - SimPEG
-  - pymatsolver
+  - SimPEG==0.13.1
+  - pymatsolver==0.1.2
