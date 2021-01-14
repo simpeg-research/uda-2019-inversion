@@ -1,4 +1,4 @@
-# uda-2019-inversion
+# Laguna del Maule gravity inversion
 
 [![Build Status](https://travis-ci.org/simpeg-research/uda-2019-inversion.svg?branch=master)](https://travis-ci.org/simpeg-research/uda-2019-inversion)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg-research/uda-2019-inversion/master?filepath=gravity-inversion.ipynb)
